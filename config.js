@@ -16,7 +16,7 @@ module.exports = {
     nodes: [{
       name: 'main',
       url: 'lava-v4.ajieblogs.eu.org:80',
-      auth: 'https://dsc.gg/ajidevserver',
+      auth: 'https://discord.gg/dQzQhkQ2Mk',
       secure: false,
     }],
     defaultSearchEngine: 'youtube_music'
