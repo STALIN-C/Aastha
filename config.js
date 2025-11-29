@@ -2,7 +2,7 @@
 module.exports = {
   // Bot Configuration
   token: process.env.DISCORD_BOT_TOKEN,
-  prefix: '!',
+  prefix: ',',
   enablePrefix: true, // Set to false to disable prefix commands
   
   // Bot Activity
